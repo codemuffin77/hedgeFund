@@ -1,0 +1,4 @@
+1. 三个portfilio分别对应matlab_code中的step1, step2, step3.m
+2. 收益曲线分别为portfilio1.jpg, portfolio2.jpg, etc
+3. 打印出来的1年，2年，3年, etc 收益分别位于port1.txt, port2.txt, port3.txt
+4. 上面打印的每年收益汇总在结果.xlsx中
